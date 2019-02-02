@@ -1,2 +1,0 @@
-# Portafolio-Jhorman
-Micro Proyecto
